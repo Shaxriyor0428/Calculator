@@ -7,7 +7,6 @@ from PyQt5.QtWidgets import (
     QHBoxLayout,
     QVBoxLayout,
 )
-
 class mainWindow(QWidget):
     def __init__(self):
         super().__init__()
